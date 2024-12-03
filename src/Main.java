@@ -90,7 +90,7 @@ public class Main {
                 "B) Koenigsegg Jesko",
                 "C) Hennessey Venom GT",
                 "D) SSC Tuatara",
-                "E) McLaren Speedtail",
+                "E) McLaren P1",
                 "D"
         );
 
