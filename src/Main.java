@@ -87,7 +87,7 @@ public class Main {
         questoes[1] = new Questao(
                 "Qual carro foi considerado o mais rápido em 2020?",
                 "A) Bugatti Veyron",
-                "B) Koenigsegg Jesko",
+                "B) Koenigsegg Agera",
                 "C) Hennessey Venom GT",
                 "D) SSC Tuatara",
                 "E) McLaren P1",
