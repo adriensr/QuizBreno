@@ -76,7 +76,7 @@ public class Main {
     private static void preencherQuestoes(Questao[] questoes) {
         questoes[0] = new Questao(
                 "Qual é o carro mais vendido no mundo?",
-                "A) Toyota Corolla",
+                "A) Toyota Camry",
                 "B) Ford F-Series",
                 "C) Honda Civic",
                 "D) Volkswagen Golf",
