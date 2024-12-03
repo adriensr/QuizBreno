@@ -117,7 +117,7 @@ public class Main {
         questoes[4] = new Questao(
                 "Qual é o nome do carro mais rápido da Ferrari?",
                 "A) Ferrari LaFerrari",
-                "B) Ferrari F8 Tributo",
+                "B) Ferrari 458",
                 "C) Ferrari 488 Pista",
                 "D) Ferrari 812 Superfast",
                 "E) Ferrari Portofino",
