@@ -110,7 +110,7 @@ public class Main {
                 "B) Ford",
                 "C) Ferrari",
                 "D) Porsche",
-                "E) Lamborghini",
+                "E) ford",
                 "C"
         );
 
