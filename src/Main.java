@@ -127,7 +127,7 @@ public class Main {
         questoes[5] = new Questao(
                 "Em que país a BMW foi fundada?",
                 "A) Alemanha",
-                "B) Estados Unidos",
+                "B) Brasil",
                 "C) França",
                 "D) Japão",
                 "E) China",
