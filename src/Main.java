@@ -130,7 +130,7 @@ public class Main {
                 "B) Estados Unidos",
                 "C) França",
                 "D) Japão",
-                "E) Itália",
+                "E) China",
                 "A"
         );
 
