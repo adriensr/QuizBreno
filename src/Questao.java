@@ -31,7 +31,7 @@ public class Questao {
         }
     }
 
-    public String leiaResposta() {
+    public String leiaResposta(Scanner scanner) {
         Scanner ler = new Scanner(System.in);
         String resp;
         do {

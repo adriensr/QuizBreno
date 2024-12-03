@@ -1,37 +1,37 @@
 import java.util.Scanner;
 
 // Classe para representar uma questão do quiz
-class Questao {
-    private String pergunta, opcaoA, opcaoB, opcaoC, opcaoD, opcaoE, respostaCorreta;
-
-    public Questao(String pergunta, String opcaoA, String opcaoB, String opcaoC, String opcaoD, String opcaoE, String respostaCorreta) {
-        this.pergunta = pergunta;
-        this.opcaoA = opcaoA;
-        this.opcaoB = opcaoB;
-        this.opcaoC = opcaoC;
-        this.opcaoD = opcaoD;
-        this.opcaoE = opcaoE;
-        this.respostaCorreta = respostaCorreta.toUpperCase();
-    }
-
-    public void escrevaQuestao() {
-        System.out.println(pergunta);
-        System.out.println(opcaoA);
-        System.out.println(opcaoB);
-        System.out.println(opcaoC);
-        System.out.println(opcaoD);
-        System.out.println(opcaoE);
-    }
-
-    public String leiaResposta(Scanner scanner) {
-        System.out.print("Digite sua resposta (A, B, C, D ou E): ");
-        return scanner.nextLine().trim().toUpperCase();
-    }
-
-    public boolean isCorreta(String resposta) {
-        return resposta.equals(respostaCorreta);
-    }
-}
+//class Questao {
+//    private String pergunta, opcaoA, opcaoB, opcaoC, opcaoD, opcaoE, respostaCorreta;
+//
+//    public Questao(String pergunta, String opcaoA, String opcaoB, String opcaoC, String opcaoD, String opcaoE, String respostaCorreta) {
+//        this.pergunta = pergunta;
+//        this.opcaoA = opcaoA;
+//        this.opcaoB = opcaoB;
+//        this.opcaoC = opcaoC;
+//        this.opcaoD = opcaoD;
+//        this.opcaoE = opcaoE;
+//        this.respostaCorreta = respostaCorreta.toUpperCase();
+//    }
+//
+//    public void escrevaQuestao() {
+//        System.out.println(pergunta);
+//        System.out.println(opcaoA);
+//        System.out.println(opcaoB);
+//        System.out.println(opcaoC);
+//        System.out.println(opcaoD);
+//        System.out.println(opcaoE);
+//    }
+//
+//    public String leiaResposta(Scanner scanner) {
+//        System.out.print("Digite sua resposta (A, B, C, D ou E): ");
+//        return scanner.nextLine().trim().toUpperCase();
+//    }
+//
+//    public boolean isCorreta(String resposta) {
+//        return resposta.equals(respostaCorreta);
+//    }
+//}
 
 public class Main {
     public static void main(String[] args) {
